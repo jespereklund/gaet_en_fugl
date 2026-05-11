@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Solsort",
+    "wav": "solsort.mp3",
+    "image": "solsort.jpg"
+  },
+  {
+    "title": "Musvit",
+    "wav": "musvit.mp3",
+    "image": "musvit.jpg"
+  },
+  {
+    "title": "Blåmejse",
+    "wav": "blaamejse.mp3",
+    "image": "blaamejse.jpg"
+  },
+  {
+    "title": "Bogfinke",
+    "wav": "bogfinke.mp3",
+    "image": "bogfinke.jpg"
+  },
+  {
+    "title": "Gråspurv",
+    "wav": "graaspurv.mp3",
+    "image": "graaspurv.jpg"
+  },
+  {
+    "title": "Skovspurv",
+    "wav": "skovspurv.mp3",
+    "image": "skovspurv.jpg"
+  },
+  {
+    "title": "Rødhals",
+    "wav": "roedhals.mp3",
+    "image": "roedhals.jpg"
+  },
+  {
+    "title": "Gærdesmutte",
+    "wav": "gaerdesmutte.mp3",
+    "image": "gaerdesmutte.jpg"
+  },
+  {
+    "title": "Hvid Vipstjert",
+    "wav": "hvid_vipstjert.mp3",
+    "image": "hvid_vipstjert.jpg"
+  },
+  {
+    "title": "Grønirisk",
+    "wav": "groenirisk.mp3",
+    "image": "groenirisk.jpg"
+  },
+  {
+    "title": "Grønsisken",
+    "wav": "groensisken.mp3",
+    "image": "groensisken.jpg"
+  },
+  {
+    "title": "Stillits",
+    "wav": "stillits.mp3",
+    "image": "stillits.jpg"
+  },
+  {
+    "title": "Gulspurv",
+    "wav": "gulspurv.mp3",
+    "image": "gulspurv.jpg"
+  },
+  {
+    "title": "Stær",
+    "wav": "staer.mp3",
+    "image": "staer.jpg"
+  },
+  {
+    "title": "Sangdrossel",
+    "wav": "sangdrossel.mp3",
+    "image": "sangdrossel.jpg"
+  },
+  {
+    "title": "Munk",
+    "wav": "munk.mp3",
+    "image": "munk.jpg"
+  },
+  {
+    "title": "Havesanger",
+    "wav": "havesanger.mp3",
+    "image": "havesanger.jpg"
+  },
+  {
+    "title": "Løvsanger",
+    "wav": "loevsanger.mp3",
+    "image": "loevsanger.jpg"
+  },
+  {
+    "title": "Gransanger",
+    "wav": "gransanger.mp3",
+    "image": "gransanger.jpg"
+  },
+  {
+    "title": "Jernspurv",
+    "wav": "jernspurv.mp3",
+    "image": "jernspurv.jpg"
+  }
+]

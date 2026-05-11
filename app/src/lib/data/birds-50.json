@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Solsort",
+    "wav": "solsort.mp3",
+    "image": "solsort.jpg"
+  },
+  {
+    "title": "Musvit",
+    "wav": "musvit.mp3",
+    "image": "musvit.jpg"
+  },
+  {
+    "title": "Blåmejse",
+    "wav": "blaamejse.mp3",
+    "image": "blaamejse.jpg"
+  },
+  {
+    "title": "Bogfinke",
+    "wav": "bogfinke.mp3",
+    "image": "bogfinke.jpg"
+  },
+  {
+    "title": "Gråspurv",
+    "wav": "graaspurv.mp3",
+    "image": "graaspurv.jpg"
+  },
+  {
+    "title": "Skovspurv",
+    "wav": "skovspurv.mp3",
+    "image": "skovspurv.jpg"
+  },
+  {
+    "title": "Rødhals",
+    "wav": "roedhals.mp3",
+    "image": "roedhals.jpg"
+  },
+  {
+    "title": "Gærdesmutte",
+    "wav": "gaerdesmutte.mp3",
+    "image": "gaerdesmutte.jpg"
+  },
+  {
+    "title": "Hvid Vipstjert",
+    "wav": "hvid_vipstjert.mp3",
+    "image": "hvid_vipstjert.jpg"
+  },
+  {
+    "title": "Grønirisk",
+    "wav": "groenirisk.mp3",
+    "image": "groenirisk.jpg"
+  },
+  {
+    "title": "Grønsisken",
+    "wav": "groensisken.mp3",
+    "image": "groensisken.jpg"
+  },
+  {
+    "title": "Stillits",
+    "wav": "stillits.mp3",
+    "image": "stillits.jpg"
+  },
+  {
+    "title": "Gulspurv",
+    "wav": "gulspurv.mp3",
+    "image": "gulspurv.jpg"
+  },
+  {
+    "title": "Stær",
+    "wav": "staer.mp3",
+    "image": "staer.jpg"
+  },
+  {
+    "title": "Sangdrossel",
+    "wav": "sangdrossel.mp3",
+    "image": "sangdrossel.jpg"
+  },
+  {
+    "title": "Munk",
+    "wav": "munk.mp3",
+    "image": "munk.jpg"
+  },
+  {
+    "title": "Havesanger",
+    "wav": "havesanger.mp3",
+    "image": "havesanger.jpg"
+  },
+  {
+    "title": "Løvsanger",
+    "wav": "loevsanger.mp3",
+    "image": "loevsanger.jpg"
+  },
+  {
+    "title": "Gransanger",
+    "wav": "gransanger.mp3",
+    "image": "gransanger.jpg"
+  },
+  {
+    "title": "Jernspurv",
+    "wav": "jernspurv.mp3",
+    "image": "jernspurv.jpg"
+  },
+  {
+    "title": "Allike",
+    "wav": "allike.mp3",
+    "image": "allike.jpg"
+  },
+  {
+    "title": "Husskade",
+    "wav": "husskade.mp3",
+    "image": "husskade.jpg"
+  },
+  {
+    "title": "Gråkrage",
+    "wav": "graakrage.mp3",
+    "image": "graakrage.jpg"
+  },
+  {
+    "title": "Ravn",
+    "wav": "ravn.mp3",
+    "image": "ravn.jpg"
+  },
+  {
+    "title": "Ringdue",
+    "wav": "ringdue.mp3",
+    "image": "ringdue.jpg"
+  },
+  {
+    "title": "Tyrkerdue",
+    "wav": "tyrkerdue.mp3",
+    "image": "tyrkerdue.jpg"
+  },
+  {
+    "title": "Fasan",
+    "wav": "fasan.mp3",
+    "image": "fasan.jpg"
+  },
+  {
+    "title": "Gråand",
+    "wav": "graaand.mp3",
+    "image": "graaand.jpg"
+  },
+  {
+    "title": "Grågås",
+    "wav": "graagaas.mp3",
+    "image": "graagaas.jpg"
+  },
+  {
+    "title": "Knopsvane",
+    "wav": "knopsvane.mp3",
+    "image": "knopsvane.jpg"
+  },
+  {
+    "title": "Blishøne",
+    "wav": "blishoene.mp3",
+    "image": "blishoene.jpg"
+  },
+  {
+    "title": "Grønbenet rørhøne",
+    "wav": "groenbenet_roerhoene.mp3",
+    "image": "groenbenet_roerhoene.jpg"
+  },
+  {
+    "title": "Fiskehejre",
+    "wav": "fiskehejre.mp3",
+    "image": "fiskehejre.jpg"
+  },
+  {
+    "title": "Hættemåge",
+    "wav": "haettemaage.mp3",
+    "image": "haettemaage.jpg"
+  },
+  {
+    "title": "Sølvmåge",
+    "wav": "soelvmaage.mp3",
+    "image": "soelvmaage.jpg"
+  },
+  {
+    "title": "Landsvale",
+    "wav": "landsvale.mp3",
+    "image": "landsvale.jpg"
+  },
+  {
+    "title": "Bysvale",
+    "wav": "bysvale.mp3",
+    "image": "bysvale.jpg"
+  },
+  {
+    "title": "Mursejler",
+    "wav": "mursejler.mp3",
+    "image": "mursejler.jpg"
+  },
+  {
+    "title": "Gøg",
+    "wav": "goeg.mp3",
+    "image": "goeg.jpg"
+  },
+  {
+    "title": "Spætmejse",
+    "wav": "spaetmejse.mp3",
+    "image": "spaetmejse.jpg"
+  },
+  {
+    "title": "Skovskade",
+    "wav": "skovskade.mp3",
+    "image": "skovskade.jpg"
+  },
+  {
+    "title": "Sortmejse",
+    "wav": "sortmejse.mp3",
+    "image": "sortmejse.jpg"
+  },
+  {
+    "title": "Sumpmejse",
+    "wav": "sumpmejse.mp3",
+    "image": "sumpmejse.jpg"
+  },
+  {
+    "title": "Halemejse",
+    "wav": "halemejse.mp3",
+    "image": "halemejse.jpg"
+  },
+  {
+    "title": "Dompap",
+    "wav": "dompap.mp3",
+    "image": "dompap.jpg"
+  },
+  {
+    "title": "Kernebider",
+    "wav": "kernebider.mp3",
+    "image": "kernebider.jpg"
+  },
+  {
+    "title": "Tornirisk",
+    "wav": "tornirisk.mp3",
+    "image": "tornirisk.jpg"
+  },
+  {
+    "title": "Tornsanger",
+    "wav": "tornsanger.mp3",
+    "image": "tornsanger.jpg"
+  },
+  {
+    "title": "Gærdesanger",
+    "wav": "gaerdesanger.mp3",
+    "image": "gaerdesanger.jpg"
+  },
+  {
+    "title": "Rødstjert",
+    "wav": "roedstjert.mp3",
+    "image": "roedstjert.jpg"
+  }
+]

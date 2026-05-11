@@ -1,0 +1,28 @@
+Der skal laves et gættespil i svelte, "Gæt en fugl". 
+Skelettet til app'en er allerede lavet og ligger i mappen app
+Når spillet kører, skal man høre sangen fra en tilfældig fugl og gætte hvad der er for en ved at klikke i et grid med billeder og navn på alle fuglene. 
+Fuglenes meta data findes i birds.json. 
+Lydene ligger i mappen sounds.
+Billederne ligger i mappen thumbs.
+Der skal være 3 sværhedgrader:
+    1. De 20 mest almindelige fugle med den mest genkedelige sang fra birds.json
+    2. De 50 mest almindelige fugle med den mest genkedelige sang fra birds.json
+    3. alle fuglene i birds.json
+
+Sværhedsgraderne laves som 3 separate json filer. 
+Når man har gættet ved at klikke på en fugl, men det ikke er den rigtige fugl, skal tilen nedtones og disables, så man ikke kan gætte på den samme fugl 2 gange. 
+Når man har gættet fuglen, skal alle tiles enables igen.
+Når man har gættet fuglen, gemmes antal gæt og fuglens navn i et array og udskrives i højre side som en slags score liste.  
+Når man har gættet fuglen skal spillet afspille en ny lyd af en ny fugl.
+Når man har gættet fuglen, skal denne fjernes fra datasættet, så man ikke kan gætte på den samme fugl igen. 
+Når alle fugle er gættet, genskabes det fulde datasæt af fugle.
+Når spillet starter, skal der være en splashscreen ved vejledning, 3 knapper med sværhedsgrad og en start-knap.
+Man skal kunne stoppe spillet og vende tilbage til splashscreenen ved at klikke på en knap eller trykke på esc knappen. Så skal der komme en dialog med teksten: "stoppe spillet?" med 2 knapper, "ja" og "nej"
+Når man gætter rigtigt, skal der komme en centreret toast med teksten "Korrekt!" Toasten skal være modal, så man ikke kan trykkke på noget nedenunder imens. Toasten skal forsvinde efter 2 sekunder
+Når man gætter forkert skal der komme en kortvarig toast med teksten "forkert", der låser spillet. Den skal forsvinde efter 2 sekunder.
+Loop lyden
+Der skal være en knap "Opgiv", som så viser hvilken fugl, man hører. 
+De valgte fugle i den nemmeste sværhedsgrad er ikke særlig nemme. Vælg flere have sangfugle til denne sværhedsgrad
+Når man gætter forkert skal man kunne klikke med det samme, så toasten skal ikke være modal.
+Sørg for at "forkert" toasten forsvinder, hvis man klikker på en fugl
+Udvælg mere almindelige fugle i mellem sværhedsgrad
