@@ -26,3 +26,4 @@ De valgte fugle i den nemmeste sværhedsgrad er ikke særlig nemme. Vælg flere 
 Når man gætter forkert skal man kunne klikke med det samme, så toasten skal ikke være modal.
 Sørg for at "forkert" toasten forsvinder, hvis man klikker på en fugl
 Udvælg mere almindelige fugle i mellem sværhedsgrad
+Anvend relative stier for lyde og billeder

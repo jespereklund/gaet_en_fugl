@@ -200,7 +200,7 @@
       <div class="audio-bar">
         <audio
           bind:this={audioElement}
-          src={currentBird ? `/sounds/${currentBird.wav}` : ''}
+          src={currentBird ? `sounds/${currentBird.wav}` : ''}
           controls
           autoplay
           loop
@@ -220,7 +220,7 @@
             disabled={wrongGuesses.has(bird.title)}
             onclick={() => guessBird(bird)}
           >
-            <img src={`/thumbs/${bird.image}`} alt={bird.title} loading="lazy" />
+            <img src={`thumbs/${bird.image}`} alt={bird.title} loading="lazy" />
             <span>{bird.title}</span>
           </button>
         {/each}
@@ -255,7 +255,7 @@
     >
       <p class="kicker">Det var</p>
       <h2 id="answer-title">{currentBird.title}</h2>
-      <img src={`/thumbs/${currentBird.image}`} alt={currentBird.title} />
+      <img src={`thumbs/${currentBird.image}`} alt={currentBird.title} />
       <button class="start-button" type="button" onclick={continueAfterGiveUp}>
         Næste fugl
       </button>
