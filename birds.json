@@ -1,0 +1,1212 @@
+[
+  {
+    "orden": "rovfugle",
+    "familie": "falke",
+    "title": "Aftenfalk",
+    "latin": "Falco vespertinus",
+    "dof_id": "03070",
+    "weight": "165.0",
+    "wav": "aftenfalk.mp3",
+    "image": "aftenfalk.jpg"
+  },
+  {
+    "orden": "hønsefugle",
+    "familie": "fasanfugle",
+    "title": "Agerhøne",
+    "latin": "Perdix perdix",
+    "dof_id": "03670",
+    "weight": "400.4",
+    "wav": "agerhoene.mp3",
+    "image": "agerhoene.jpg"
+  },
+  {
+    "orden": "storkefugle",
+    "familie": "alkefugle",
+    "title": "Alk",
+    "latin": "Alca torda",
+    "dof_id": "06360",
+    "weight": "625.4",
+    "wav": "alk.mp3",
+    "image": "alk.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "kragefugle",
+    "title": "Allike",
+    "latin": "Corvus monedula",
+    "dof_id": "15600",
+    "weight": "245.0",
+    "wav": "allike.mp3",
+    "image": "allike.jpg"
+  },
+  {
+    "orden": "tranefugle",
+    "familie": "vandhøns",
+    "title": "Blishøne",
+    "latin": "Fulica atra",
+    "dof_id": "04290",
+    "weight": "737.5",
+    "wav": "blishoene.mp3",
+    "image": "blishoene.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "høge",
+    "title": "Blå Kærhøg",
+    "latin": "Circus cyaneus",
+    "dof_id": "02610",
+    "weight": "350.4",
+    "wav": "blaa_kaerhoeg.mp3",
+    "image": "blaa_kaerhoeg.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "drosler",
+    "title": "Blåhals",
+    "latin": "Luscinia svecica",
+    "dof_id": "11060",
+    "weight": "19.2",
+    "wav": "blaahals.mp3",
+    "image": "blaahals.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "mejser",
+    "title": "Blåmejse",
+    "latin": "Cyanistes caeruleus",
+    "dof_id": "14620",
+    "weight": "10.5",
+    "wav": "blaamejse.mp3",
+    "image": "blaamejse.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Bogfinke",
+    "latin": "Fringilla coelebs",
+    "dof_id": "16360",
+    "weight": "21.4",
+    "wav": "bogfinke.mp3",
+    "image": "bogfinke.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "værlinger",
+    "title": "Bomlærke",
+    "latin": "Emberiza calandra",
+    "dof_id": "18820",
+    "weight": "46.8",
+    "wav": "bomlaerke.mp3",
+    "image": "bomlaerke.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fluesnappere",
+    "title": "Broget Fluesnapper",
+    "latin": "Ficedula hypoleuca",
+    "dof_id": "13490",
+    "weight": "12",
+    "wav": "broget_fluesnapper.mp3",
+    "image": "broget_fluesnapper.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "svaler",
+    "title": "Bysvale",
+    "latin": "Delichon urbica",
+    "dof_id": "10010",
+    "weight": "21.0",
+    "wav": "bysvale.mp3",
+    "image": "bysvale.jpg"
+  },
+  {
+    "orden": "vadefugle",
+    "familie": "sneppefugle",
+    "title": "Dobbeltbekkasin",
+    "latin": "Gallinago gallinago",
+    "dof_id": "05190",
+    "weight": "101.2",
+    "wav": "dobbeltbekkasin.mp3",
+    "image": "dobbeltbekkasin.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Dompap",
+    "latin": "Pyrrhula pyrrhula",
+    "dof_id": "17100",
+    "weight": "24",
+    "wav": "dompap.mp3",
+    "image": "dompap.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Drosselrørsanger",
+    "latin": "Acrocephalus arundinaceus",
+    "dof_id": "12530",
+    "weight": "31.3",
+    "wav": "drosselroersanger.mp3",
+    "image": "drosselroersanger.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "ørne",
+    "title": "Duehøg",
+    "latin": "Accipiter gentilis",
+    "dof_id": "02670",
+    "weight": "800",
+    "wav": "duehoeg.mp3",
+    "image": "duehoeg.jpg"
+  },
+  {
+    "orden": "tranefugle",
+    "familie": "sumphøns",
+    "title": "Engsnarre",
+    "latin": "Crex crex",
+    "dof_id": "04210",
+    "weight": "167.7",
+    "wav": "engsnarre.mp3",
+    "image": "engsnarre.jpg"
+  },
+  {
+    "orden": "hønsefugle",
+    "familie": "fasanfugle",
+    "title": "Fasan",
+    "latin": "Phasianus colchicus",
+    "dof_id": "03940",
+    "weight": "1100.0",
+    "wav": "fasan.mp3",
+    "image": "fasan.jpg"
+  },
+  {
+    "orden": "storkefugle",
+    "familie": "hejrer",
+    "title": "Fiskehejre",
+    "latin": "Ardea cinerea",
+    "dof_id": "01220",
+    "weight": "1800.0",
+    "wav": "fiskehejre.mp3",
+    "image": "fiskehejre.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "fiskeørne",
+    "title": "Fiskeørn",
+    "latin": "Pandion haliaetus",
+    "dof_id": "03010",
+    "weight": "1550.2",
+    "wav": "fiskeoern.mp3",
+    "image": "fiskeoern.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Flodsanger",
+    "latin": "Locustella fluviatilis",
+    "dof_id": "12370",
+    "weight": "19.4",
+    "wav": "flodsanger.mp3",
+    "image": "flodsanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fuglekonger",
+    "title": "Fuglekonge",
+    "latin": "Regulus regulus",
+    "dof_id": "13140",
+    "weight": "6.5",
+    "wav": "fuglekonge.mp3",
+    "image": "fuglekonge.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "mejser",
+    "title": "Fyrremejse",
+    "latin": "Poecile montana",
+    "dof_id": "14420",
+    "weight": "10.8",
+    "wav": "fyrremejse.mp3",
+    "image": "fyrremejse.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Gransanger",
+    "latin": "Phylloscopus collybita",
+    "dof_id": "13110",
+    "weight": "7.5",
+    "wav": "gransanger.mp3",
+    "image": "gransanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fluesnappere",
+    "title": "Grå Fluesnapper",
+    "latin": "Muscicapa striata",
+    "dof_id": "13350",
+    "weight": "16.2",
+    "wav": "graa_fluesnapper.mp3",
+    "image": "graa_fluesnapper.jpg"
+  },
+  {
+    "orden": "andefugle",
+    "familie": "egentlige andefugle",
+    "title": "Gråand",
+    "latin": "Anas Platyrhynchos",
+    "dof_id": "01860",
+    "weight": "1125",
+    "wav": "graaand.mp3",
+    "image": "graaand.jpg"
+  },
+  {
+    "orden": "andefugle",
+    "familie": "andefugle",
+    "title": "Grågås",
+    "latin": "Anser anser",
+    "dof_id": "01610",
+    "weight": "3550.0",
+    "wav": "graagaas.mp3",
+    "image": "graagaas.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "kragefugle",
+    "title": "Gråkrage",
+    "latin": "Corvus corone cornix",
+    "dof_id": "15673",
+    "weight": "570.0",
+    "wav": "graakrage.mp3",
+    "image": "graakrage.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "spurve",
+    "title": "Gråspurv",
+    "latin": "Passer domesticus",
+    "dof_id": "15910",
+    "weight": "27.5",
+    "wav": "graaspurv.mp3",
+    "image": "graaspurv.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Græshoppesanger",
+    "latin": "Locustella naevia",
+    "dof_id": "12360",
+    "weight": "13.8",
+    "wav": "graeshoppesanger.mp3",
+    "image": "graeshoppesanger.jpg"
+  },
+  {
+    "orden": "tranefugle",
+    "familie": "vandhøns",
+    "title": "Grønbenet rørhøne",
+    "latin": "Gallinula chloropus",
+    "dof_id": "04240",
+    "weight": "311.0",
+    "wav": "groenbenet_roerhoene.mp3",
+    "image": "groenbenet_roerhoene.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Grønirisk",
+    "latin": "Carduelis chloris",
+    "dof_id": "16490",
+    "weight": "29.5",
+    "wav": "groenirisk.mp3",
+    "image": "groenirisk.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Grønsisken",
+    "latin": "Carduelis spinus",
+    "dof_id": "16540",
+    "weight": "12.3",
+    "wav": "groensisken.mp3",
+    "image": "groensisken.jpg"
+  },
+  {
+    "orden": "spættefugle",
+    "familie": "spætter",
+    "title": "Grønspætte",
+    "latin": "Picus viridis",
+    "dof_id": "08560",
+    "weight": "200",
+    "wav": "groenspaette.mp3",
+    "image": "groenspaette.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "vipstjerter",
+    "title": "Gul Vipstjert",
+    "latin": "Motacilla flava",
+    "dof_id": "10170",
+    "weight": "19",
+    "wav": "gul_vipstjert.mp3",
+    "image": "gul_vipstjert.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Gulbug",
+    "latin": "Hippolais icterina",
+    "dof_id": "12590",
+    "weight": "14.0",
+    "wav": "gulbug.mp3",
+    "image": "gulbug.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Gulirisk",
+    "latin": "Serinus serinus",
+    "dof_id": "16400",
+    "weight": "11.8",
+    "wav": "gulirisk.mp3",
+    "image": "gulirisk.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "værlinger",
+    "title": "Gulspurv",
+    "latin": "Emberiza citrinella",
+    "dof_id": "18570",
+    "weight": "27.1",
+    "wav": "gulspurv.mp3",
+    "image": "gulspurv.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Gærdesanger",
+    "latin": "Sylvia curruca",
+    "dof_id": "12740",
+    "weight": "13.0",
+    "wav": "gaerdesanger.mp3",
+    "image": "gaerdesanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "gærdesmutter",
+    "title": "Gærdesmutte",
+    "latin": "Troglodytes troglodytes",
+    "dof_id": "10660",
+    "weight": "10.4",
+    "wav": "gaerdesmutte.mp3",
+    "image": "gaerdesmutte.jpg"
+  },
+  {
+    "orden": "gøgefugle",
+    "familie": "gøge",
+    "title": "Gøg",
+    "latin": "Cuculus canorus",
+    "dof_id": "07240",
+    "weight": "117.5",
+    "wav": "goeg.mp3",
+    "image": "goeg.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "halemejser",
+    "title": "Halemejse",
+    "latin": "Aegithalos caudatus",
+    "dof_id": "14370",
+    "weight": "8.1",
+    "wav": "halemejse.mp3",
+    "image": "halemejse.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Havesanger",
+    "latin": "Sylvia borin",
+    "dof_id": "12760",
+    "weight": "19.5",
+    "wav": "havesanger.mp3",
+    "image": "havesanger.jpg"
+  },
+  {
+    "orden": "mågefugle",
+    "familie": "terner",
+    "title": "Havterne",
+    "latin": "Sterna paradisaea",
+    "dof_id": "06160",
+    "weight": "100.0",
+    "wav": "havterne.mp3",
+    "image": "havterne.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "ørne",
+    "title": "Havørn",
+    "latin": "Haliaeetus albicilla",
+    "dof_id": "02430",
+    "weight": "4925.0",
+    "wav": "havoern.mp3",
+    "image": "havoern.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "høge",
+    "title": "Hedehøg",
+    "latin": "Circus pygargus",
+    "dof_id": "02630",
+    "weight": "318.76",
+    "wav": "hedehoeg.mp3",
+    "image": "hedehoeg.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "lærker",
+    "title": "Hedelærke",
+    "latin": "Lullula arborea",
+    "dof_id": "09740",
+    "weight": "30.3",
+    "wav": "hedelaerke.mp3",
+    "image": "hedelaerke.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fluesnappere",
+    "title": "Husrødstjert",
+    "latin": "Phoenicurus ochruros",
+    "dof_id": "11210",
+    "weight": "17.3",
+    "wav": "husroedstjert.mp3",
+    "image": "husroedstjert.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "kragefugle",
+    "title": "Husskade",
+    "latin": "Pica pica",
+    "dof_id": "15490",
+    "weight": "225.0",
+    "wav": "husskade.mp3",
+    "image": "husskade.jpg"
+  },
+  {
+    "orden": "storkefugle",
+    "familie": "storke",
+    "title": "Hvid Stork",
+    "latin": "Ciconia ciconia",
+    "dof_id": "01340",
+    "weight": "3251",
+    "wav": "hvid_stork.mp3",
+    "image": "hvid_stork.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "vipstjerter",
+    "title": "Hvid Vipstjert",
+    "latin": "Motacilla alba",
+    "dof_id": "10200",
+    "weight": "23",
+    "wav": "hvid_vipstjert.mp3",
+    "image": "hvid_vipstjert.jpg"
+  },
+  {
+    "orden": "mågefugle",
+    "familie": "måger",
+    "title": "Hættemåge",
+    "latin": "Chroicocephalus ridibundus",
+    "dof_id": "05820",
+    "weight": "287.5",
+    "wav": "haettemaage.mp3",
+    "image": "haettemaage.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "spurve",
+    "title": "Jernspurv",
+    "latin": "Prunella modularis",
+    "dof_id": "10840",
+    "weight": "21.8",
+    "wav": "jernspurv.mp3",
+    "image": "jernspurv.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Karmindompap",
+    "latin": "Carpodacus erythrinus",
+    "dof_id": "16790",
+    "weight": "22.9",
+    "wav": "karmindompap.mp3",
+    "image": "karmindompap.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Kernebider",
+    "latin": "Coccothraustes coccothraustes",
+    "dof_id": "17170",
+    "weight": "55",
+    "wav": "kernebider.mp3",
+    "image": "kernebider.jpg"
+  },
+  {
+    "orden": "ugler",
+    "familie": "ugler",
+    "title": "Kirkeugle",
+    "latin": "Athene noctua",
+    "dof_id": "07570",
+    "weight": "167.7",
+    "wav": "kirkeugle.mp3",
+    "image": "kirkeugle.jpg"
+  },
+  {
+    "orden": "andefugle",
+    "familie": "andefugle",
+    "title": "Knopsvane",
+    "latin": "Cygnus olor",
+    "dof_id": "01520",
+    "weight": "11000.0",
+    "wav": "knopsvane.mp3",
+    "image": "knopsvane.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Kvækerfinke",
+    "latin": "Fringilla montifringilla",
+    "dof_id": "16380",
+    "weight": "26.4",
+    "wav": "kvaekerfinke.mp3",
+    "image": "kvaekerfinke.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Kærsanger",
+    "latin": "Acrocephalus palustris",
+    "dof_id": "12500",
+    "weight": "13.2",
+    "wav": "kaersanger.mp3",
+    "image": "kaersanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "svaler",
+    "title": "Landsvale",
+    "latin": "Hirundo rustica",
+    "dof_id": "09920",
+    "weight": "20.6",
+    "wav": "landsvale.mp3",
+    "image": "landsvale.jpg"
+  },
+  {
+    "orden": "spættefugle",
+    "familie": "spætter",
+    "title": "Lille Flagspætte",
+    "latin": "Dendrocopos minor",
+    "dof_id": "08870",
+    "weight": "20",
+    "wav": "lille_flagspaette.mp3",
+    "image": "lille_flagspaette.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fluesnappere",
+    "title": "Lille Fluesnapper",
+    "latin": "Ficedula parva",
+    "dof_id": "13430",
+    "weight": "10.8",
+    "wav": "lille_fluesnapper.mp3",
+    "image": "lille_fluesnapper.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Lundsanger",
+    "latin": "Phylloscopus trochiloides",
+    "dof_id": "12930",
+    "weight": "8.3",
+    "wav": "lundsanger.mp3",
+    "image": "lundsanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Løvsanger",
+    "latin": "Phylloscopus trochilus",
+    "dof_id": "13120",
+    "weight": "8.0",
+    "wav": "loevsanger.mp3",
+    "image": "loevsanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fluesnappere",
+    "title": "Misteldrossel",
+    "latin": "Turdus viscivorus",
+    "dof_id": "12020",
+    "weight": "125.4",
+    "wav": "misteldrossel.mp3",
+    "image": "misteldrossel.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Munk",
+    "latin": "Sylvia atricapilla",
+    "dof_id": "12770",
+    "weight": "17.6",
+    "wav": "munk.mp3",
+    "image": "munk.jpg"
+  },
+  {
+    "orden": "sejlere",
+    "familie": "sejlere",
+    "title": "Mursejler",
+    "latin": "Apus Apus",
+    "dof_id": "07950",
+    "weight": "43.0",
+    "wav": "mursejler.mp3",
+    "image": "mursejler.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "mejser",
+    "title": "Musvit",
+    "latin": "Parus major",
+    "dof_id": "14640",
+    "weight": "18.5",
+    "wav": "musvit.mp3",
+    "image": "musvit.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "ørne",
+    "title": "Musvåge",
+    "latin": "Buteo buteo",
+    "dof_id": "02870",
+    "weight": "825.0",
+    "wav": "musvaage.mp3",
+    "image": "musvaage.jpg"
+  },
+  {
+    "orden": "ugler",
+    "familie": "ugler",
+    "title": "Natravn",
+    "latin": "Caprimulgus europaeus",
+    "dof_id": "07780",
+    "weight": "87.5",
+    "wav": "natravn.mp3",
+    "image": "natravn.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "drosler",
+    "title": "Nattergal",
+    "latin": "Luscinia luscinia",
+    "dof_id": "11030",
+    "weight": "27.0",
+    "wav": "nattergal.mp3",
+    "image": "nattergal.jpg"
+  },
+  {
+    "orden": "ugler",
+    "familie": "ugler",
+    "title": "Natugle",
+    "latin": "Strix aluco",
+    "dof_id": "07610",
+    "weight": "445.0",
+    "wav": "natugle.mp3",
+    "image": "natugle.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "piroler",
+    "title": "Pirol",
+    "latin": "Oriolus oriolus",
+    "dof_id": "15080",
+    "weight": "66.2",
+    "wav": "pirol.mp3",
+    "image": "pirol.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "pungmejser",
+    "title": "Pungmejse",
+    "latin": "Remiz pendulinus",
+    "dof_id": "14900",
+    "weight": "9.8",
+    "wav": "pungmejse.mp3",
+    "image": "pungmejse.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "kragefugle",
+    "title": "Ravn",
+    "latin": "Corvus corax",
+    "dof_id": "15720",
+    "weight": "1150.3",
+    "wav": "ravn.mp3",
+    "image": "ravn.jpg"
+  },
+  {
+    "orden": "duefugle",
+    "familie": "duer",
+    "title": "Ringdue",
+    "latin": "Columba palumbus",
+    "dof_id": "06700",
+    "weight": "485.0",
+    "wav": "ringdue.mp3",
+    "image": "ringdue.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "kragefugle",
+    "title": "Råge",
+    "latin": "Corvus frugilegus",
+    "dof_id": "15630",
+    "weight": "490",
+    "wav": "raage.mp3",
+    "image": "raage.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "glenter",
+    "title": "Rød Glente",
+    "latin": "Milvus milvus",
+    "dof_id": "02390",
+    "weight": "1012.5",
+    "wav": "roed_glente.mp3",
+    "image": "roed_glente.jpg"
+  },
+  {
+    "orden": "vadefugle",
+    "familie": "sneppefugle",
+    "title": "Rødben",
+    "latin": "Tringa totanus",
+    "dof_id": "05460",
+    "weight": "122.5",
+    "wav": "roedben.mp3",
+    "image": "roedben.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "drosler",
+    "title": "Rødhals",
+    "latin": "Erithacus rubecula",
+    "dof_id": "10990",
+    "weight": "19.0",
+    "wav": "roedhals.mp3",
+    "image": "roedhals.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fluesnappere",
+    "title": "Rødstjert",
+    "latin": "Phoenicurus phoenicurus",
+    "dof_id": "11220",
+    "weight": "16.2",
+    "wav": "roedstjert.mp3",
+    "image": "roedstjert.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "fuglekonger",
+    "title": "Rødtoppet Fuglekonge",
+    "latin": "Regulus ignicapilla",
+    "dof_id": "13150",
+    "weight": "6.3",
+    "wav": "roedtoppet_fuglekonge.mp3",
+    "image": "roedtoppet_fuglekonge.jpg"
+  },
+  {
+    "orden": "storkefugle",
+    "familie": "hejrer",
+    "title": "Rørdrum",
+    "latin": "Botaurus stellaris",
+    "dof_id": "00950",
+    "weight": "1050",
+    "wav": "roerdrum.mp3",
+    "image": "roerdrum.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "høge",
+    "title": "Rørhøg",
+    "latin": "Circus aeruginosus",
+    "dof_id": "02600",
+    "weight": "601.2",
+    "wav": "roerhoeg.mp3",
+    "image": "roerhoeg.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Rørsanger",
+    "latin": "Acrocephalus scirpaceus",
+    "dof_id": "12510",
+    "weight": "12.5",
+    "wav": "roersanger.mp3",
+    "image": "roersanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "værlinger",
+    "title": "Rørspurv",
+    "latin": "Emberiza schoeniclus",
+    "dof_id": "18770",
+    "weight": "18.8",
+    "wav": "roerspurv.mp3",
+    "image": "roerspurv.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "drosler",
+    "title": "Sangdrossel",
+    "latin": "Turdus philomelos",
+    "dof_id": "12000",
+    "weight": "77.5",
+    "wav": "sangdrossel.mp3",
+    "image": "sangdrossel.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "lærker",
+    "title": "Sanglærke",
+    "latin": "Alauda arvensis",
+    "dof_id": "09760",
+    "weight": "39.0",
+    "wav": "sanglaerke.mp3",
+    "image": "sanglaerke.jpg"
+  },
+  {
+    "orden": "andefugle",
+    "familie": "andefugle",
+    "title": "Sangsvane",
+    "latin": "Cygnus cygnus",
+    "dof_id": "01540",
+    "weight": "9500.0",
+    "wav": "sangsvane.mp3",
+    "image": "sangsvane.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Savisanger",
+    "latin": "Locustella luscinioides",
+    "dof_id": "12380",
+    "weight": "14.9",
+    "wav": "savisanger.mp3",
+    "image": "savisanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "silkehaler",
+    "title": "Silkehale",
+    "latin": "Bombycilla garrulus",
+    "dof_id": "10480",
+    "weight": "54.4",
+    "wav": "silkehale.mp3",
+    "image": "silkehale.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Sivsanger",
+    "latin": "Acrocephalus schoenobaenus",
+    "dof_id": "12430",
+    "weight": "11.5",
+    "wav": "sivsanger.mp3",
+    "image": "sivsanger.jpg"
+  },
+  {
+    "orden": "suliformes",
+    "familie": "skarver",
+    "title": "Skarv",
+    "latin": "Phalacrocorax carbo",
+    "dof_id": "00720",
+    "weight": "2502",
+    "wav": "skarv.mp3",
+    "image": "skarv.jpg"
+  },
+  {
+    "orden": "ugler",
+    "familie": "ugler",
+    "title": "Skovhornugle",
+    "latin": "Asio otus",
+    "dof_id": "07670",
+    "weight": "262.7",
+    "wav": "skovhornugle.mp3",
+    "image": "skovhornugle.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Skovsanger",
+    "latin": "Phylloscopus sibilatrix",
+    "dof_id": "13080",
+    "weight": "9.8",
+    "wav": "skovsanger.mp3",
+    "image": "skovsanger.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "kragefugle",
+    "title": "Skovskade",
+    "latin": "Garrulus glandarius",
+    "dof_id": "15390",
+    "weight": "165",
+    "wav": "skovskade.mp3",
+    "image": "skovskade.jpg"
+  },
+  {
+    "orden": "vadefugle",
+    "familie": "sneppefugle",
+    "title": "Skovsneppe",
+    "latin": "Scolopax rusticola",
+    "dof_id": "05290",
+    "weight": "335.0",
+    "wav": "skovsneppe.mp3",
+    "image": "skovsneppe.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "spurve",
+    "title": "Skovspurv",
+    "latin": "Passer montanus",
+    "dof_id": "15980",
+    "weight": "22.0",
+    "wav": "skovspurv.mp3",
+    "image": "skovspurv.jpg"
+  },
+  {
+    "orden": "ugler",
+    "familie": "ugler",
+    "title": "Slørugle",
+    "latin": "Tyto alba",
+    "dof_id": "07350",
+    "weight": "345.2",
+    "wav": "sloerugle.mp3",
+    "image": "sloerugle.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "drosler",
+    "title": "Solsort",
+    "latin": "Turdus merula",
+    "dof_id": "11870",
+    "weight": "95.0",
+    "wav": "solsort.mp3",
+    "image": "solsort.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "mejser",
+    "title": "Sortmejse",
+    "latin": "Periparus ater",
+    "dof_id": "14610",
+    "weight": "9",
+    "wav": "sortmejse.mp3",
+    "image": "sortmejse.jpg"
+  },
+  {
+    "orden": "spættefugle",
+    "familie": "spætter",
+    "title": "Sortspætte",
+    "latin": "Dryocopus martius",
+    "dof_id": "08630",
+    "weight": "325",
+    "wav": "sortspaette.mp3",
+    "image": "sortspaette.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "høge",
+    "title": "Spurvehøg",
+    "latin": "Accipiter nisus",
+    "dof_id": "02690",
+    "weight": "225.3",
+    "wav": "spurvehoeg.mp3",
+    "image": "spurvehoeg.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "spætmejser",
+    "title": "Spætmejse",
+    "latin": "Sitta europaea",
+    "dof_id": "14790",
+    "weight": "21.5",
+    "wav": "spaetmejse.mp3",
+    "image": "spaetmejse.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Stillits",
+    "latin": "Carduelis carduelis",
+    "dof_id": "16530",
+    "weight": "16",
+    "wav": "stillits.mp3",
+    "image": "stillits.jpg"
+  },
+  {
+    "orden": "spættefugle",
+    "familie": "spætter",
+    "title": "Stor Flagspætte",
+    "latin": "Dendrocopos major",
+    "dof_id": "08760",
+    "weight": "80.0",
+    "wav": "stor_flagspaette.mp3",
+    "image": "stor_flagspaette.jpg"
+  },
+  {
+    "orden": "vadefugle",
+    "familie": "strandskader",
+    "title": "Strandskade",
+    "latin": "Haematopus ostralegus",
+    "dof_id": "04500",
+    "weight": "550.0",
+    "wav": "strandskade.mp3",
+    "image": "strandskade.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "stære",
+    "title": "Stær",
+    "latin": "Sturnus vulgaris",
+    "dof_id": "15820",
+    "weight": "82.5",
+    "wav": "staer.mp3",
+    "image": "staer.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "mejser",
+    "title": "Sumpmejse",
+    "latin": "Poecile palustris",
+    "dof_id": "14400",
+    "weight": "10.7",
+    "wav": "sumpmejse.mp3",
+    "image": "sumpmejse.jpg"
+  },
+  {
+    "orden": "mågefugle",
+    "familie": "måger",
+    "title": "Sølvmåge",
+    "latin": "Larus argentatus",
+    "dof_id": "05920",
+    "weight": "1000",
+    "wav": "soelvmaage.mp3",
+    "image": "soelvmaage.jpg"
+  },
+  {
+    "orden": "lappedykkere",
+    "familie": "lappedykkere",
+    "title": "Toppet Lappedykker",
+    "latin": "Podiceps cristatus",
+    "dof_id": "00090",
+    "weight": "975.0",
+    "wav": "toppet_lappedykker.mp3",
+    "image": "toppet_lappedykker.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "finker",
+    "title": "Tornirisk",
+    "latin": "Carduelis flavirostris",
+    "dof_id": "16600",
+    "weight": "17.5",
+    "wav": "tornirisk.mp3",
+    "image": "tornirisk.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "sangere",
+    "title": "Tornsanger",
+    "latin": "Sylvia communis",
+    "dof_id": "12750",
+    "weight": "15.0",
+    "wav": "tornsanger.mp3",
+    "image": "tornsanger.jpg"
+  },
+  {
+    "orden": "andefugle",
+    "familie": "egentlige andefugle",
+    "title": "Troldand",
+    "latin": "Anas Platyrhynchos",
+    "dof_id": "02030",
+    "weight": "725",
+    "wav": "troldand.mp3",
+    "image": "troldand.jpg"
+  },
+  {
+    "orden": "duefugle",
+    "familie": "duer",
+    "title": "Turteldue",
+    "latin": "Streptopelia turtur",
+    "dof_id": "06870",
+    "weight": "150.3",
+    "wav": "turteldue.mp3",
+    "image": "turteldue.jpg"
+  },
+  {
+    "orden": "duefugle",
+    "familie": "duer",
+    "title": "Tyrkerdue",
+    "latin": "Streptopelia decaocto",
+    "dof_id": "06840",
+    "weight": "187.6",
+    "wav": "tyrkerdue.mp3",
+    "image": "tyrkerdue.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "falke",
+    "title": "Tårnfalk",
+    "latin": "Falco tinnunculus",
+    "dof_id": "03040",
+    "weight": "237.5",
+    "wav": "taarnfalk.mp3",
+    "image": "taarnfalk.jpg"
+  },
+  {
+    "orden": "hønsefugle",
+    "familie": "fasanfugle",
+    "title": "Vagtel",
+    "latin": "Coturnix coturnix",
+    "dof_id": "03700",
+    "weight": "97.6",
+    "wav": "vagtel.mp3",
+    "image": "vagtel.jpg"
+  },
+  {
+    "orden": "rovfugle",
+    "familie": "falke",
+    "title": "Vandrefalk",
+    "latin": "Falco peregrinus",
+    "dof_id": "03200",
+    "weight": "887.6",
+    "wav": "vandrefalk.mp3",
+    "image": "vandrefalk.jpg"
+  },
+  {
+    "orden": "vadefugle",
+    "familie": "brokfugle",
+    "title": "Vibe",
+    "latin": "Vanellus vanellus",
+    "dof_id": "04930",
+    "weight": "230.0",
+    "wav": "vibe.mp3",
+    "image": "vibe.jpg"
+  },
+  {
+    "orden": "spurvefugle",
+    "familie": "drosler",
+    "title": "Vindrossel",
+    "latin": "Turdus iliacus",
+    "dof_id": "12010",
+    "weight": "65.3",
+    "wav": "vindrossel.mp3",
+    "image": "vindrossel.jpg"
+  }
+]
