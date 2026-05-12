@@ -371,7 +371,7 @@ h2 {
 .answer-dialog img {
   width: 100%;
   aspect-ratio: 4 / 3;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: 8px;
   background: var(--surface-strong);
 }

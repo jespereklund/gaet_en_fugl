@@ -36,3 +36,4 @@ Fjern audio playeren
 Når man gætter korrekt, skal baggrundsfarven i den pågældende tile blive grøn som toast. Farven skal nulstille når toast forsvinder eller man klikker på ny fugl
 Lav et ikon favicon.svg til siden der er en lille tegnet fugl og læg den ind som link rel="icon"
 Lav fuglen som et hoved med gult næb, så det er nemmere at se, det er en fugl
+Sørg for at man kan se hele billedet i Opgiv kassen
