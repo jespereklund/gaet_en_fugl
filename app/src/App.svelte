@@ -25,6 +25,8 @@
   let audioElement
 
   $: gridBirds = selectedDifficulty.birds
+  $: toastMessage = showCorrectToast ? 'Korrekt!' : showWrongToast ? 'forkert' : ''
+  $: toastTone = showCorrectToast ? 'correct' : showWrongToast ? 'wrong' : 'idle'
 
   function shuffle(items) {
     return [...items].sort(() => Math.random() - 0.5)
@@ -194,6 +196,15 @@
         <div class="header-actions">
           <button class="secondary-button" type="button" onclick={giveUp}>Opgiv</button>
           <button class="secondary-button" type="button" onclick={requestStop}>Stop</button>
+          <div
+            class="header-toast"
+            class:correct={toastTone === 'correct'}
+            class:wrong={toastTone === 'wrong'}
+            aria-live="polite"
+            aria-label={toastMessage || 'Ingen besked'}
+          >
+            {toastMessage}
+          </div>
         </div>
       </header>
 
@@ -260,20 +271,6 @@
         Næste fugl
       </button>
     </div>
-  </div>
-{/if}
-
-{#if showCorrectToast}
-  <div class="toast-backdrop" role="presentation">
-    <div class="correct-toast" role="dialog" aria-modal="true" aria-live="assertive">
-      Korrekt!
-    </div>
-  </div>
-{/if}
-
-{#if showWrongToast}
-  <div class="floating-toast wrong-toast" role="status" aria-live="polite">
-    forkert
   </div>
 {/if}
 

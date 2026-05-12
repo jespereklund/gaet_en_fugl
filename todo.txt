@@ -20,6 +20,9 @@ Når spillet starter, skal der være en splashscreen ved vejledning, 3 knapper m
 Man skal kunne stoppe spillet og vende tilbage til splashscreenen ved at klikke på en knap eller trykke på esc knappen. Så skal der komme en dialog med teksten: "stoppe spillet?" med 2 knapper, "ja" og "nej"
 Når man gætter rigtigt, skal der komme en centreret toast med teksten "Korrekt!" Toasten skal være modal, så man ikke kan trykkke på noget nedenunder imens. Toasten skal forsvinde efter 2 sekunder
 Når man gætter forkert skal der komme en kortvarig toast med teksten "forkert", der låser spillet. Den skal forsvinde efter 2 sekunder.
+
+rettelser:
+
 Loop lyden
 Der skal være en knap "Opgiv", som så viser hvilken fugl, man hører. 
 De valgte fugle i den nemmeste sværhedsgrad er ikke særlig nemme. Vælg flere have sangfugle til denne sværhedsgrad
@@ -27,3 +30,4 @@ Når man gætter forkert skal man kunne klikke med det samme, så toasten skal i
 Sørg for at "forkert" toasten forsvinder, hvis man klikker på en fugl
 Udvælg mere almindelige fugle i mellem sværhedsgrad
 Anvend relative stier for lyde og billeder
+flyt toast op til højre for de to knapper. Sørg for den altid er der og er grå, når der ikke er en toast
