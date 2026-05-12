@@ -14,6 +14,7 @@
   let answerPool = []
   let currentBird = null
   let wrongGuesses = new Set()
+  let correctGuess = null
   let guessesThisRound = 0
   let score = []
   let showStopDialog = false
@@ -51,6 +52,7 @@
     answerPool = refreshedPool
     currentBird = chooseBird(refreshedPool)
     wrongGuesses = new Set()
+    correctGuess = null
     guessesThisRound = 0
 
     setTimeout(playCurrentSong)
@@ -64,6 +66,7 @@
     showCorrectToast = false
     showWrongToast = false
     showGiveUpDialog = false
+    correctGuess = null
     screen = 'game'
     nextRound(shuffle(selectedDifficulty.birds))
   }
@@ -99,10 +102,12 @@
     const nextPool = remaining.length ? remaining : shuffle(selectedDifficulty.birds)
 
     audioElement?.pause()
+    correctGuess = bird.title
     showCorrectToast = true
     clearTimeout(correctToastTimeout)
     correctToastTimeout = setTimeout(() => {
       showCorrectToast = false
+      correctGuess = null
       nextRound(nextPool)
     }, 2000)
   }
@@ -140,6 +145,7 @@
     currentBird = null
     answerPool = []
     wrongGuesses = new Set()
+    correctGuess = null
     guessesThisRound = 0
   }
 
@@ -208,25 +214,24 @@
         </div>
       </header>
 
-      <div class="audio-bar">
-        <audio
-          bind:this={audioElement}
-          src={currentBird ? `sounds/${currentBird.wav}` : ''}
-          controls
-          autoplay
-          loop
-          onloadedmetadata={playCurrentSong}
-        >
-          Din browser kan ikke afspille lyden.
-        </audio>
-        <p>{guessesThisRound} gæt i denne runde</p>
-      </div>
+      <audio
+        bind:this={audioElement}
+        src={currentBird ? `sounds/${currentBird.wav}` : ''}
+        autoplay
+        loop
+        onloadedmetadata={playCurrentSong}
+      >
+        Din browser kan ikke afspille lyden.
+      </audio>
+
+      <p class="round-status">{guessesThisRound} gæt i denne runde</p>
 
       <div class="bird-grid">
         {#each gridBirds as bird}
           <button
             class="bird-tile"
             class:muted={wrongGuesses.has(bird.title)}
+            class:correct={correctGuess === bird.title}
             type="button"
             disabled={wrongGuesses.has(bird.title)}
             onclick={() => guessBird(bird)}

@@ -25,8 +25,7 @@ body {
   min-width: 320px;
 }
 
-button,
-audio {
+button {
   font: inherit;
 }
 
@@ -38,8 +37,7 @@ button {
   cursor: pointer;
 }
 
-button:focus-visible,
-audio:focus-visible {
+button:focus-visible {
   outline: 3px solid rgba(36, 116, 79, 0.35);
   outline-offset: 3px;
 }
@@ -215,30 +213,17 @@ h2 {
   background: var(--danger);
 }
 
-.audio-bar {
+.round-status {
   position: sticky;
   top: 0;
   z-index: 2;
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 14px;
-  align-items: center;
   margin-bottom: 18px;
   padding: 12px;
   border: 1px solid var(--border);
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.94);
   box-shadow: 0 8px 24px rgba(29, 36, 28, 0.08);
-}
-
-.audio-bar audio {
-  width: 100%;
-}
-
-.audio-bar p {
-  margin: 0;
   color: var(--muted);
-  white-space: nowrap;
 }
 
 .bird-grid {
@@ -260,6 +245,7 @@ h2 {
   transition:
     opacity 160ms ease,
     transform 160ms ease,
+    background-color 160ms ease,
     border-color 160ms ease;
 }
 
@@ -287,6 +273,16 @@ h2 {
 .bird-tile.muted {
   opacity: 0.32;
   filter: grayscale(1);
+}
+
+.bird-tile.correct {
+  border-color: rgba(36, 116, 79, 0.24);
+  color: #ffffff;
+  background: var(--accent);
+}
+
+.bird-tile.correct img {
+  background: rgba(255, 255, 255, 0.92);
 }
 
 .score-panel {
@@ -408,8 +404,7 @@ h2 {
 }
 
 @media (max-width: 620px) {
-  .difficulty-buttons,
-  .audio-bar {
+  .difficulty-buttons {
     grid-template-columns: 1fr;
   }
 

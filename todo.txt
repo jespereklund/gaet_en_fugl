@@ -30,4 +30,7 @@ Når man gætter forkert skal man kunne klikke med det samme, så toasten skal i
 Sørg for at "forkert" toasten forsvinder, hvis man klikker på en fugl
 Udvælg mere almindelige fugle i mellem sværhedsgrad
 Anvend relative stier for lyde og billeder
-flyt toast op til højre for de to knapper. Sørg for den altid er der og er grå, når der ikke er en toast
+
+Flyt toast op til højre for de to knapper. Sørg for den altid er der og er grå, når der ikke er en toast
+Fjern audio playeren
+Når man gætter korrekt, skal baggrundsfarven i den pågældende tile blive grøn som toast. Farven skal nulstille når toast forsvinder eller man klikker på ny fugl
